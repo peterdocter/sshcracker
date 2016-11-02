@@ -1,0 +1,41 @@
+# 井号表示注释，空白行会自动忽略，每一行中必须包含该username和password
+root 123456
+root password
+root 12345
+root 1234
+root root
+root 123
+root qwerty
+root test
+root 1q2w3e4r
+root 1qaz2wsx
+root qazwsx
+root 123qwe
+root 12
+root 123qaz
+root 0000
+root oracle
+root 1234567
+root 123456qwerty
+root password123
+root 12345678
+root 1q2w3e
+root abc123
+root okmnji
+root test123
+root 123456789
+root postgres
+root q1w2e3r4
+root redhat
+root user
+
+
+mysql mysql
+oracle oracle
+apache apache
+
+test test
+www www
+ftp ftp
+
+
